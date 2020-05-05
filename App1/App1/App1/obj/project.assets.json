@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\Documents\\GitHub\\Xamarin_retired\\App1\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\vladi\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectPath": "C:\\Users\\vladi\\Documents\\GitHub\\Xamarin_retired\\App1\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\source\\repos\\App1\\App1\\App1\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\Documents\\GitHub\\Xamarin_retired\\App1\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
